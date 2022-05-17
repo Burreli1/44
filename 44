@@ -1,18 +1,26 @@
 #EXTINF:-1   group-title="-IPTV SHQIP AnnA-",
+#EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
+http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13782
+#EXTINF:-1,AL: Globi TV
+http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13660
+#EXTINF:-1,AL: TV2 Gostivar
+http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13661
+#EXTINF:-1,AL: TV Shenja
+http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13630
 #EXTINF:-1,AL: Top Channel
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13605
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJkGo79Vczjxk81ouajKHuk/ts
 #EXTINF:-1,AL: Top Channel HD
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13606
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLqU61d7ydwGPPejj526X2V/ts
 #EXTINF:-1,AL: Klan TV
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13608
 #EXTINF:-1,AL: Klan TV HD
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13609
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLRd9K4hCCpCJFILiZc3bWr/ts
 #EXTINF:-1,AL: Klan Plus HD
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13610
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJdQB2Fpkq5mwddHG5s16ma/ts
 #EXTINF:-1,AL: Vizion Plus
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13611
 #EXTINF:-1,AL: Vizion Plus HD
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13612
+http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJl_4MftO86f_fu1tAUyxFI/ts
 #EXTINF:-1,AL: RTK 1
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13591
 #EXTINF:-1,AL: RTK 1 HD
@@ -79,8 +87,6 @@ http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13627
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13628
 #EXTINF:-1,AL: Klan Macedonia
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13629
-#EXTINF:-1,AL: TV Shenja
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13630
 #EXTINF:-1,AL: TV Tema
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13631
 #EXTINF:-1,AL: TV Liria Ferizaj
@@ -103,8 +109,6 @@ http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13639
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13640
 #EXTINF:-1,AL: Antena TV Shkoder
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13641
-#EXTINF:-1,AL: TV Skampa
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13642
 #EXTINF:-1,AL: RTV Arberia 1
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13643
 #EXTINF:-1,AL: RTV Arberia 2
@@ -139,10 +143,6 @@ http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13657
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13658
 #EXTINF:-1,AL: TV Llapi
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13659
-#EXTINF:-1,AL: Globi TV
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13660
-#EXTINF:-1,AL: TV2 Gostivar
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13661
 #EXTINF:-1,AL: TV Sharri
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13662
 #EXTINF:-1,AL: TV Lezha
@@ -179,10 +179,6 @@ http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13678
 #EXTINF:-1,AL: Fax News
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13679
 
-#EXTINF:-1,AL: Big Brother VIP Albania 1 HD
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13681
-#EXTINF:-1,AL: Big Brother VIP Albania 2 HD
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13682
 #EXTINF:-1,AL: ART Prime
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13683
 #EXTINF:-1,AL: ART Episode
@@ -378,8 +374,6 @@ http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13779
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13780
 #EXTINF:-1,AL: ART Doku 2
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13781
-#EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
-http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13782
 #EXTINF:-1,AL: Discovery Channel
 http://gamistra.ddns.net:8554/albanian/AJXRkTc34fqd/13783
 #EXTINF:-1,AL: Discovery Science
