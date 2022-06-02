@@ -1,17 +1,19 @@
 #EXTINF:-1   group-title="-IPTV SHQIP AnnA-",
+#EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13782
 #EXTINF:-1,AL: Top Channel
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13605
 #EXTINF:-1,AL: Klan TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13608
-#EXTINF:-1,AL: Klan Plus HD
-http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQJdQB2Fpkq5mwddHG5s16ma/ts
+#EXTINF:-1,AL: Klan Plus FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/2562
 #EXTINF:-1,AL: Vizion Plus
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13611
 #EXTINF:-1,AL: Globi TV
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13660
 #EXTINF:-1,AL: TV2 Gostivar
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13661
-#EXTINF:-1,AL: TV2 Gostivar FHD
+#EXTINF:-1,AL: MRT FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/169842
 #EXTINF:-1,AL: Ulqini TV HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278582
@@ -27,14 +29,16 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13595
 #EXTINF:-1,AL: RTV 21
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13597
-#EXTINF:-1,AL: ATV Kosova
-http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQLFj37sfVJk7JG9-OKYlq42/ts
+#EXTINF:-1,AL: A TV FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/171891
 #EXTINF:-1,AL: Klan Kosova
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13600
 #EXTINF:-1,AL: T7
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13602
-#EXTINF:-1,AL: TV Dukagjini
-http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIAT2djCcNakgK8Pgahnwuv/ts
+#EXTINF:-1,AL: TV Dukagjini FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/6708
+#EXTINF:-1,AL: Shenja TV HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/12414
 #EXTINF:-1,AL: Kanal 10 Kosova
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13604
 
@@ -75,8 +79,6 @@ http://95.107.132.105/out/u/135_1.m3u8
 http://95.107.132.105/out/u/159_1.m3u8
 #EXTINF:-1,TV KLAN Makedonia MOB
 http://79.106.48.2:3131/live/klanmacedoniamob/playlist.m3u8
-#EXTINF:-1,AL: TV Shenja
-http://links.iptvlogin.com:80/play/gmjzIJKpbtaCzla9Nr-0zlOSYIeJ93Lb-sAXUEwKBQIY2Fv0liXHnki5gn0AGs-e/ts
 #EXTINF:-1,AL: TV Tema
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13631
 #EXTINF:-1,AL: TV Liria Ferizaj
@@ -368,8 +370,6 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13780
 #EXTINF:-1,AL: ART Doku 2
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13781
-#EXTINF:-1,AL: 8OVA Gjurme Shqipetare TV
-http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13782
 #EXTINF:-1,AL: Discovery Channel
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13783
 #EXTINF:-1,AL: Discovery Science
@@ -461,6 +461,9 @@ http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13839
 #EXTINF:-1,AL: Tring Sport 4 HD
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13840
+#EXTINF:-1,AL: RTSH Sport
+http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13841
+
 #EXTINF:-1,AL: RTSH Sport
 http://gamistra.ddns.net:8554/kTc34fqdalbaniankTc34fqd/AJAJXRkTc34fqdXRkTc34fqd/13841
 #EXTINF:-1   group-title="-IPTV SPORT 1-",
